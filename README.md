@@ -17,7 +17,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **C.P.I.F.P - Nuevo IES Campanillas**
+          🔭 I’m currently studying at **C.P.I.F.P - Alan Turing**
         </li>
         <li>
           🌱 I’m currently learning Java & Python; 
